@@ -1,0 +1,17 @@
+{
+  "name": "Burner API.AI Agent",
+  "description": "A simple Bot that connects to any api.ai agent.",
+  "repository": "https://github.com/adhoclabs/burnerapiai",
+  "logo": "https://static.burnerapp.com/apiai_small.png",
+  "keywords": ["burner", "bot"],
+  "env": {
+    "accesstoken": {
+      "description": "Client access token for Api.ai",
+      "value": ""
+    },
+    "incomingwebhookurl": {
+      "description": "Burner incoming webhook url",
+      "value": ""
+    }
+  }
+}

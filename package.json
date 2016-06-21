@@ -1,0 +1,25 @@
+{
+  "name": "burnerapiaibot",
+  "version": "0.1.5",
+  "description": "A simple Bot that connects to any api.ai agent.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apiai": "^2.0.0",
+    "body-parser": "1.15.0",
+    "ejs": "2.3.3",
+    "express": "4.13.3",
+    "request": "2.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adhoclabs/burnerapiai.git"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "license": "MIT"
+}
