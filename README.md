@@ -6,7 +6,7 @@
 
 * [Burner account + at least one Burner number](https://www.burnerapp.com)
 * [Heroku account](https://www.heroku.com) (free)
-* [API.AI Agent](https://www.api.ai) (free)
+* [API.AI Agent](https://api.ai) (free)
 
 ### Tutorial
 
