@@ -10,7 +10,7 @@
   "dependencies": {
     "apiai": "^2.0.0",
     "body-parser": "1.15.0",
-    "ejs": "2.3.3",
+    "ejs": ">=2.5.5",
     "express": "4.13.3",
     "request": "2.69.0"
   },
